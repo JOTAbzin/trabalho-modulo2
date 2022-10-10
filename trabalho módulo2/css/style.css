@@ -1,0 +1,29 @@
+
+
+body{
+    background: black;
+    background-image: url(/img/megacode.png);
+    
+}
+div.tudo{
+    
+    align-items: center;
+    margin-left: 1px;
+    margin-top: -10px;
+}
+div.pt1{
+    margin-left: 500px;
+    margin-top: 10px;
+    background:rgba(254, 255, 255, 0.1);
+    width: 350px;
+    height: 700px;
+    font-size: 30px;
+    color: blue;
+}
+div.pt1 .txt{
+    margin: 10px;
+}
+div.txt2 #msg {
+    border: solid white;
+    background: white;
+}
